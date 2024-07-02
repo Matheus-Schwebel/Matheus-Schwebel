@@ -1,5 +1,3 @@
-![Matheus Image](matheus.png)
-
 # Hello, programmer!
 
 I'm **Matheus Schwebel** and I love program!!!
